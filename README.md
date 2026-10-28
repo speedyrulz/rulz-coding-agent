@@ -1,3 +1,5 @@
+> **This app has moved.** RulZ Coding Agent is now part of [RulZ AI Tools Suite](https://github.com/speedyrulz/RulZ-AI-Tools-Suite): its source is in [apps/rulz-coding-agent](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/tree/main/apps/rulz-coding-agent), its downloads are on the [Releases page](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/releases) and its guide is in the [wiki](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/wiki/Coding-Agent). This repository is archived and no longer updated.
+
 # RulZ Coding Agent
 
 A Windows desktop app that builds software from plain English. Describe an app ("make a video upscaler with a
